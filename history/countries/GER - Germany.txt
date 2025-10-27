@@ -1,0 +1,41 @@
+﻿capital = 64 # Berlin
+
+set_politics = {
+	ruling_party = communism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	communism = 100
+}
+
+create_faction = third_internationale
+add_to_faction = GER
+add_to_faction = POL
+add_to_faction = SOV
+add_to_faction = USA
+add_to_faction = FRA
+add_to_faction = CZE
+add_to_faction = HUN
+add_to_faction = HOL
+add_to_faction = ROM
+add_to_faction = YUG
+add_to_faction = SPR
+add_to_faction = POR
+add_to_faction = ENG
+add_to_faction = IRE
+add_to_faction = SWE
+add_to_faction = DEN
+add_to_faction = NOR
+add_to_faction = ITA
+add_to_faction = FIN
+add_to_faction = ALB
+add_to_faction = GRE
+add_to_faction = TUR
+add_to_faction = PER
+
+recruit_character = GER_guy
+
+

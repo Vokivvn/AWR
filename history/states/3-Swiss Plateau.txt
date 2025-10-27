@@ -1,0 +1,16 @@
+state={
+	id=3
+	name="STATE_3"
+	provinces={
+		661 663 9620 9638 11601 11604 11623 
+	}
+	
+	history={
+		owner = GER
+	}
+	
+	manpower=1216838
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}
