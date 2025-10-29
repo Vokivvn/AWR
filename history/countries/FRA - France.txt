@@ -1,0 +1,15 @@
+﻿capital = 16 # Paris/Ile de France
+
+set_politics = {
+	ruling_party = socialism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	socialism = 100
+}
+
+recruit_character = SOV_ivan_yefremov
+

@@ -1,14 +1,14 @@
 ﻿capital = 64 # Berlin
 
 set_politics = {
-	ruling_party = communism
+	ruling_party = spartakism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	communism = 100
+	spartakism = 100
 }
 
 create_faction = third_internationale
@@ -35,6 +35,8 @@ add_to_faction = ALB
 add_to_faction = GRE
 add_to_faction = TUR
 add_to_faction = PER
+add_to_faction = CAN
+add_to_faction = BEL
 
 recruit_character = GER_guy
 
