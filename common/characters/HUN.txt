@@ -1,0 +1,15 @@
+characters = {
+	HUN_Bela_Kun = {
+		name = "Béla Kun" 
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_HUN_Bela_Kun
+			}
+		}
+		country_leader = {
+			ideology = leninism
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}

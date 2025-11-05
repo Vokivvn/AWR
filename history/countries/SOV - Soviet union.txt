@@ -11,6 +11,6 @@ set_popularities = {
 	communism = 100
 }
 
-recruit_character = SOV_ivan_yefremov
+recruit_character = SOV_Andrei_Kolegayev
 
 

@@ -1,0 +1,16 @@
+characters = {
+	SOV_Andrei_Kolegayev = {
+		name = "Andrei Kolegayev" 
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_SOV_Andrei_Kolegayev
+			}
+		}
+		country_leader = {
+			ideology = maximalism_subtype
+			expire = "1964.1.1.1"
+			id = -1
+		}
+	}
+}
+	

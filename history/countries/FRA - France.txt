@@ -11,5 +11,5 @@ set_popularities = {
 	socialism = 100
 }
 
-recruit_character = SOV_ivan_yefremov
+recruit_character = FRA_marcel_deat
 

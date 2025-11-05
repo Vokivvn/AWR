@@ -1,0 +1,16 @@
+characters = {
+	GER_Rosi_Wolfstein = {
+		name = "Rosi Wolfstein" 
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_GER_Rosi_Wolfstein
+			}
+		}
+		country_leader = {
+			ideology = spartakism_subtype
+			expire = "1964.1.1.1"
+			id = -1
+		}
+	}
+}
+	

@@ -273,6 +273,8 @@ HES = "countries/Hesse.txt"
 RHI = "countries/Rhineland.txt"
 UBD = "countries/United Baltic Duchy.txt"
 UAR = "countries/UAR.txt"
+PRR = "countries/Portugal exile.txt"
+SPA = "countries/Spain exile.txt"
 
 
 

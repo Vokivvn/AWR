@@ -37,7 +37,8 @@ add_to_faction = TUR
 add_to_faction = PER
 add_to_faction = CAN
 add_to_faction = BEL
+add_to_faction = JAP
 
-recruit_character = GER_guy
+recruit_character = GER_Rosi_Wolfstein
 
 

@@ -1,0 +1,16 @@
+characters = {
+	POL_Stanislaw_Dubois = {
+		name = "Stanisław Dubois" 
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_POL_Stanislaw_Dubois
+			}
+		}
+		country_leader = {
+			ideology = socialism_subtype
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

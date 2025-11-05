@@ -1,0 +1,14 @@
+﻿add_namespace = GER
+
+country_event = { #Intro 
+	id = GER.1
+	title = GER.1.t
+	desc = GER.1.d
+	picture = report_event_KPD
+
+	is_triggered_only = yes
+	
+	option = { #Puppetry
+		name = GER.1.a
+	}
+}

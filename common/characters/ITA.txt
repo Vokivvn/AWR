@@ -1,0 +1,16 @@
+characters = {
+	ITA_Antonio_Gramsci = {
+		name = "Antonio Gramsci" 
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_ITA_Antonio_Gramsci
+			}
+		}
+		country_leader = {
+			ideology = spartakism_subtype
+			expire = "1964.1.1.1"
+			id = -1
+		}
+	}
+}
+	

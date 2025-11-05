@@ -1,0 +1,46 @@
+spriteTypes = {
+
+## GERMANY
+
+	spriteType = {
+		name = "GFX_Portrait_GER_Rosi_Wolfstein"
+		texturefile = "gfx/leaders/GER/Portrait_GER_Rosi_Wolfstein.png"
+	}
+
+## RUSSIA
+
+	spriteType = {
+		name = "GFX_Portrait_SOV_Andrei_Kolegayev"
+		texturefile = "gfx/leaders/SOV/Portrait_SOV_Andrei_Kolegayev.png"
+	}
+	
+## ITALY
+
+	spriteType = {
+		name = "GFX_Portrait_ITA_Antonio_Gramsci"
+		texturefile = "gfx/leaders/ITA/Portrait_ITA_Antonio_Gramsci.png"
+	}
+	
+## FRANCE
+
+	spriteType = {
+		name = "GFX_Portrait_FRA_Marcel_Deat"
+		texturefile = "gfx/leaders/FRA/Portrait_FRA_Marcel_Deat.png"
+	}	
+
+## HUNGARY
+
+	spriteType = {
+		name = "GFX_Portrait_HUN_Bela_Kun"
+		texturefile = "gfx/leaders/HUN/Portrait_HUN_Bela_Kun.png"
+	}	
+	
+## POLAND
+
+	spriteType = {
+		name = "GFX_Portrait_POL_Stanislaw_Dubois"
+		texturefile = "gfx/leaders/POL/Portrait_POL_Stanislaw_Dubois.png"
+	}	
+
+
+}

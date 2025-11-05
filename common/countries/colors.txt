@@ -142,8 +142,8 @@ CAN = {
 	color_ui = rgb { 155 62 51 }
 }
 CHI = {
-	color = rgb { 39 50 117 }
-	color_ui = rgb { 39 50 117 }
+	color = rgb { 27 40 114 }
+	color_ui = rgb { 27 40 114 }
 }
 CHL = {
 	color = rgb { 84 54 58 }
@@ -238,8 +238,8 @@ SIK = {
 	color_ui = rgb { 222 247 198 }
 }
 TIB = {
-	color = rgb { 40 37 130 }
-	color_ui = rgb { 40 37 130 }
+	color = rgb { 29 28 127 }
+	color_ui = rgb { 29 28 127 }
 }
 URG = {
 	color = rgb { 96 107 86 }
@@ -258,8 +258,8 @@ USA = {
 	color_ui = rgb { 102 36 21 }
 }
 MON = {
-	color = rgb { 58 68 145 }
-	color_ui = rgb { 58 68 145 }
+	color = rgb { 37 49 142 }
+	color_ui = rgb { 37 49 142 }
 }
 MEN = {
 	color = rgb { 185  255  152 }
@@ -463,8 +463,8 @@ PAK = {
 #    color_ui = rgb { 150 180 120 }
 #}
 KOR = {
-	color = rgb { 255  240  195 }
-	color_ui = rgb { 255 248 229 }	
+	color = rgb { 71 80 114 }
+	color_ui = rgb { 71 80 114 }	
 }
 ISR = {
 	color = rgb { 152  130  191 }
@@ -1077,6 +1077,14 @@ KUB = {
 UAR = {
 	color = rgb { 79 137 85 }
 	color_ui = rgb { 79 137 85 }
+}
+PRR = {
+	color = rgb { 51 151 91 }
+	color_ui = rgb { 51 151 91 }
+}
+SPA = {
+	color = rgb { 183 183 88 }
+	color_ui = rgb { 183 183 88 }
 }
 
 
